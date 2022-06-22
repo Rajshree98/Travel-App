@@ -1,28 +1,14 @@
-# Capstone Project
+# Travel App
 
-![Screenshot of the Travel App](https://github.com/stelfoxcreative/udacity-fe-project-capstone/blob/master/udacity-front-end-developer-capstone-travel-app.png?raw=true)
+A travel app, combining all of your Front End skills into an amazing capstone project for your portfolio. Utilize multiple APIs to present a user with all they need to know about their trip.
 
 ## Installating and Running the app
 
 Run `npm install` in the terminal to get the packages required
 
-## .Env file
-
-You will need to rename the '.env-UPDATEME' file to '.env' and enter your own API credentials
-
-### Development environment
-
-* Run the `build-dev` script to run the webpack-dev-server with the development config
-* Run the `start` script to start the express server
-
-## Technologies used
-
-* Webpack
-* Jest
-* Supertest
-* Axios
-* Workbox
-* Express
+## Pre-Requesties:
+- Make sure you populate the `.env-CHANGEME` file with appropriate values.
+- RUN `npm start` to boot up the application.
 
 ## API's used
 
@@ -48,30 +34,5 @@ API Documentation <https://pixabay.com/api/docs/>
 * Use Local Storage to save the data so that when they close, then revisit the page, their information is still there.
 * Incorporate icons into forecast.
 
-## Further work for future me
-
-* Break down into smaller JS files
-* Add tests to all files
-* Add ...Loading spinner when retrieving results
-* Add Skeleton placeholder for content
-* Replace weatherbit icons
-* Learn more about Express Middleware
-
-## Chrome was hurt by this many tabs in the creation of this project
-
-* <https://developers.google.com/web/tools/chrome-devtools/coverage>
-* <https://cssgrid.io/>
-* <https://www.rollingstone.com/music/music-lists/david-bowie-movies-videos-tv-snl-126637/boys-keep-swinging-1979-106265/>
-* <https://stackoverflow.com/questions/35325291/how-can-i-load-images-used-in-sass-stylesheet-in-webpack>
-* <https://www.youtube.com/watch?v=stYvCmQg5cs>
-* <https://fonts.google.com/>
-* <https://developer.mozilla.org/en-US/docs/Web/API/Element/classList>
-* <https://developer.mozilla.org/en-US/docs/Web/API/Document/createDocumentFragment>
-* <https://stackoverflow.com/questions/2010892/storing-objects-in-html5-localstorage>
-* <https://www.w3schools.com/jsref/prop_win_localstorage.asp>
-* <https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage>
-* <https://ultimatecourses.com/blog/attaching-event-handlers-to-dynamically-created-javascript-elements>
-* <https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch>
-* <https://www.pinterest.co.uk/pin/219972763035190767/>
-* <https://codepen.io/chrisgannon/pens/public?cursor=ZD0xJm89MCZwPTEmdj0yMzg2NzA0OQ==>
-* <https://developer.mozilla.org/en-US/docs/Web/API/Window/load_event>
+## Author
+[Rajshree Nema](https://github.com/Rajshree98)
